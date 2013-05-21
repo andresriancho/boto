@@ -12,3 +12,7 @@ MANIFEST
 .coverage
 *flymake.py
 venv
+
+.project
+.pydevproject
+
